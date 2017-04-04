@@ -6,5 +6,5 @@ package com.hsbc.reverse.polishnotation.services;
  *
  */
 public interface ParserService {
-	int evaluateNotation(String input);
+	int evaluateNotation(String input); 
 }
